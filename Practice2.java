@@ -1,8 +1,6 @@
 /**
  * Created by Min on 15/06/2016.
  */
-import java.math.*;
-import java.util.regex.*;
 
 public class Practice2 {
     /// to convert to base 7 from given base 10
