@@ -1,6 +1,9 @@
 # BaseSydney
+
 a Java function convert takes an integer as its argument and returns the encoded string in base 7 using the given encoding rule. 
+
 base10 0 1 2 3 4 5 6 
+
 base7  0 S y d n e y
 
 Sample Input 1
